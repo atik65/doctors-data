@@ -1,6 +1,4 @@
-{
-
-  "doctors": [
+ [
   
   {
   "id": 1,
@@ -184,15 +182,6 @@
   "degree": "    MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand         "
 }
   
-  ], "services":[
+  ]
 
-    {
-      "id": 31,
-      "name": "Pediatric Clinic",
-  }, {
-      "id": 32,
-      "name": "Laboratory Analysis"
-    }
-]
 
-}
