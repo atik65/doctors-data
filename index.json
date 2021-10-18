@@ -184,7 +184,20 @@
   "degree": "    MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand         "
 }
   
-  ]
+  ],
+  
+  "services":[
+
+    {
+      "id":31,
+      "name": "Pediatric Clinic",
+
+
+},
+
+
+
+]
 
 
 
