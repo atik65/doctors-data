@@ -1,4 +1,8 @@
-[{
+{
+
+  "doctors": [
+  
+  {
   "id": 1,
   "name": "Sanderson Peskett",
   "specialty ": "Pediatricians",
@@ -178,4 +182,11 @@
   "specialty ": "Orthopedic surgeon",
   "email": "lsatterfittt@mac.com",
   "degree": "    MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand         "
-}]
+}
+  
+  ],
+  "services": "hello" ,
+
+
+
+}
