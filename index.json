@@ -3,181 +3,181 @@
   {
   "id": 1,
   "name": "Sanderson Peskett",
-  "specialty ": "Pediatricians",
+  "specialty": "Pediatricians",
   "email": "speskett0@deliciousdays.com",
   "degree": "MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand"
 }, {
   "id": 2,
   "name": "Lizzie Webberley",
-  "specialty ": "Allergists",
+  "specialty": "Allergists",
   "email": "lwebberley1@123-reg.co.uk",
   "degree": "   MBBS, DLO (DU), FICS (USA)   "
 }, {
   "id": 3,
   "name": "Cirstoforo Tomasello",
-  "specialty ": "Dermatologists",
+  "specialty" : "Dermatologists",
   "email": "ctomasello2@photobucket.com",
   "degree": "     MBBS, MD, PhD (MS)  "
 }, {
   "id": 4,
   "name": "Franzen Daintrey",
-  "specialty ": "Dermatologists",
+  "specialty": "Dermatologists",
   "email": "fdaintrey3@yahoo.com",
   "degree": "    MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand     "
 }, {
   "id": 5,
   "name": "Constancia Osband",
-  "specialty ": "Dermatologists",
+  "specialty": "Dermatologists",
   "email": "cosband4@discovery.com",
   "degree": "    MBBS, DTCD, MD (Radiation Oncology), UICC Fellow, NCC, Singapore IEA Fellow, UPMC, USA     "
 }, {
   "id": 6,
   "name": "Charo Leward",
-  "specialty ": "Ophthalmologists",
+  "specialty": "Ophthalmologists",
   "email": "cleward5@springer.com",
   "degree": "    MBBS (Dhaka), MD (Cardiology)   "
 }, {
   "id": 7,
   "name": "Arlene Fairney",
-  "specialty ": " gynecologists",
+  "specialty": " gynecologists",
   "email": "afairney6@scientificamerican.com",
   "degree": "    MBBS, MD (Card), FCPS (Med      "
 }, {
   "id": 8,
   "name": "Laughton Alliban",
-  "specialty ": "Cardiologists",
+  "specialty": "Cardiologists",
   "email": "lalliban7@xrea.com",
   "degree": "   MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand "       
 }, {
   "id": 9,
   "name": "Hi Jonas",
-  "specialty ": "Cardiologists",
+  "specialty": "Cardiologists",
   "email": "hjonas8@soup.io",
   "degree": "     MBBS, PGDND, DLO     "
 }, {
   "id": 10,
   "name": "Miller Swaysland",
-  "specialty ": "Cardiologists",
+  "specialty": "Cardiologists",
   "email": "mswaysland9@prweb.com",
   "degree": "      MBBS, MS( CV & TS)     "
 }, {
   "id": 11,
   "name": "Pasquale O'Gormally",
-  "specialty ": "Cardiologists",
+  "specialty": "Cardiologists",
   "email": "pogormallya@qq.com",
   "degree": "      MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand     "
 }, {
   "id": 12,
   "name": "Claiborne Filipov",
-  "specialty ": "Endocrinologists",
+  "specialty": "Endocrinologists",
   "email": "cfilipovb@admin.ch",
   "degree": "    MBBS, MCPS (Med), MD (Card), FACC (USA)      "
 }, {
   "id": 13,
   "name": "Teddy Robbings",
-  "specialty ": "Endocrinologists",
+  "specialty": "Endocrinologists",
   "email": "trobbingsc@lulu.com",
   "degree": "     MBBS, MS( CV & TS)    "
 }, {
   "id": 14,
   "name": "Rurik Smethurst",
-  "specialty ": "Endocrinologists",
+  "specialty": "Endocrinologists",
   "email": "rsmethurstd@columbia.edu",
   "degree": "       MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand    "
 }, {
   "id": 15,
   "name": "Tan Lethebridge",
-  "specialty ": "Gastroenterologists",
+  "specialty": "Gastroenterologists",
   "email": "tlethebridgee@cbslocal.com",
   "degree": "        MBBS, PGDND, DLO       "
 }, {
   "id": 16,
   "name": "Llywellyn Broxap",
-  "specialty ": "Nephrologists",
+  "specialty": "Nephrologists",
   "email": "lbroxapf@go.com",
   "degree": "    MBBS, MCPS (Med), MD (Card), FACC (USA)       "
 }, {
   "id": 17,
   "name": "Staffard Ranahan",
-  "specialty ": "Nephrologists",
+  "specialty": "Nephrologists",
   "email": "sranahang@blogs.com",
   "degree": "  MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand       "
 }, {
   "id": 18,
   "name": "Dion Baudone",
-  "specialty ": "Nephrologists",
+  "specialty": "Nephrologists",
   "email": "dbaudoneh@latimes.com",
   "degree": "       MBBS, PGDND, DLO        "
 }, {
   "id": 19,
   "name": "Emmaline Blabey",
-  "specialty ": "Nephrologists",
+  "specialty": "Nephrologists",
   "email": "eblabeyi@sohu.com",
   "degree": "      MBBS, FCPS(Med), MD(Gastro), Member- ISG(India)      "
 }, {
   "id": 20,
   "name": "Tiebold Shay",
-  "specialty ": "Urologists",
+  "specialty": "Urologists",
   "email": "tshayj@canalblog.com",
   "degree": "       MBBS, FCPS(Med), MD(Gastro)    "
 }, {
   "id": 21,
   "name": "Nancey Fidock",
-  "specialty ": "Urologists",
+  "specialty": "Urologists",
   "email": "nfidockk@qq.com",
   "degree": "  MBBS, FCPS (CARDIOLOGY & MEDICINE     "
 }, {
   "id": 22,
   "name": "Parnell Hannaby",
-  "specialty ": "Pulmonologists",
+  "specialty": "Pulmonologists",
   "email": "phannabyl@shop-pro.jp",
   "degree": "      MBBS, MD (Neuro) Fellow-Interventional Neurology & Stroke Theraphy, HGRH (India)     "
 }, {
   "id": 23,
   "name": "Rivy Course",
-  "specialty ": "Otolaryngologists",
+  "specialty": "Otolaryngologists",
   "email": "rcoursem@weibo.com",
   "degree": "      MBBS, MD (Neuro) Fellow-Interventional Neurology & Stroke Theraphy, HGRH (India)       "
 }, {
   "id": 24,
   "name": "Justin Rowbotham",
-  "specialty ": "Neurologists",
+  "specialty": "Neurologists",
   "email": "jrowbothamn@dedecms.com",
   "degree": "          MBBS, MD (Neuro) Fellow-Interventional Neurology & Stroke Theraphy, HGRH (India)        "
 }, {
   "id": 25,
   "name": "Florenza Lesor",
-  "specialty ": "Neurologists",
+  "specialty": "Neurologists",
   "email": "flesoro@usatoday.com",
   "degree": "       MBBS, FCPS (CARDIOLOGY & MEDICINE     "
 }, {
   "id": 26,
   "name": "Cord Burne",
-  "specialty ": "Neurologists",
+  "specialty": "Neurologists",
   "email": "cburnep@ucoz.com",
   "degree": "      MBBS, FCPS, MS       "
 }, {
   "id": 27,
   "name": "Zola Keatch",
-  "specialty ": "Psychiatrists",
+  "specialty": "Psychiatrists",
   "email": "zkeatchq@elpais.com",
   "degree": "      MBBS, FCPS, MS     "
 }, {
   "id": 28,
   "name": "Beitris Worvill",
-  "specialty ": "Psychiatrists",
+  "specialty": "Psychiatrists",
   "email": "bworvillr@shareasale.com",
   "degree": "         MBBS, FCPS, MS      "
 }, {
   "id": 29,
   "name": "Melicent Frosdick",
-  "specialty ": "Psychiatrists",
+  "specialty": "Psychiatrists",
   "email": "mfrosdicks@tiny.cc",
   "degree": "      MBBS, FCPS (CARDIOLOGY & MEDICINE      "
 }, {
   "id": 30,
   "name": "Lorne Satterfitt",
-  "specialty ": "Orthopedic surgeon",
+  "specialty": "Orthopedic surgeon",
   "email": "lsatterfittt@mac.com",
   "degree": "    MBBS, MD, FCPS (Paed), WHO Fellow, India, Thailand         "
 }
